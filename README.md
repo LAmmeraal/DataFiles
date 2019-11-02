@@ -1,5 +1,5 @@
 These files with extension ".dat" can be read by some programs in my books about computer graphics, the latest of which is
-Computer Graphics Programming in C++/Qt, published by Amazon in October 2029.
+Computer Graphics Programming in C++/Qt, published by Amazon in October 2019.
 Some of these files contain a section at the end, starting with the word "Groups". 
 This is then followed by sequences of vertex numbers, each ending with an exclamation mark (!).
 We call the set of numbers in such a sequence a "group". It contains the vertex numbers of a part of the combined object.
